@@ -5,4 +5,4 @@ I am constantly trying to get better at what I do.
 
 If you would like to reach me you can email me at private@shortexception.de or contact me on Twitter @ShortException.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shortexception)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shortexception&show_icons=true&theme=radical)
