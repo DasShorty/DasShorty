@@ -1,9 +1,9 @@
-# Hello, I am Anthony / ShortException.
-#### I'm not a student yet, but I know the programming languages Java and Kotlin relatively well.
+# Hello, my name is Anthony.
+#### Programlanguages: Java, Kotlin
 
 #### I am constantly trying to get better at what I do.
 
-#### If you would like to reach me you can email me at private@shortexception.de or contact me on Twitter [@ShortException](https://twitter.com/shortexception).
+#### If you would like to reach me you can email me at shortexceptionde@gmail.com or contact me on Twitter [@ShortException](https://twitter.com/shortexception).
 
 ---------------------------------------
 
