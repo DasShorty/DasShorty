@@ -1,8 +1,8 @@
 
 <h1 align="center">Hello my name is Anthony.</h1>
-<h3 align="center">Moderator from [DMS](https://discord.gg/8bvja5vCB5) </h3>
+<h3 align="center">Java / C# Developer</h3>
 
- - 📡Working on PlayCraft
+ - 📡Working on [M-Cloud-Java](https://github.com/M-Cloud-Java)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shortexception&show_icons=true&theme=dark)
  <h3 align="left">Contact me at</h3>
