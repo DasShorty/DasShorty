@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://cdn.dasshorty.de/Logo - simple.png"  />
+  <img height="200" src="https://cdn.dasshorty.de/logo.png"  />
 </div>
 
 ###
