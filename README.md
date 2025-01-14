@@ -13,8 +13,8 @@
 <br clear="both">
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasshorty&layout=compact&exclude_repo=MCCreativeLab,laudymedia-backend,CodeHelper,polocloud&theme=dark" height="150" alt="languages graph"  />
- <img src="https://streak-stats.demolab.com?user=DasShorty&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasshorty&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="dasshorty's GitHub Stats" height="160" />
+ <img src="https://github-readme-stats.vercel.app/api?username=dasshorty&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="dasshorty's GitHub Stats" height="160"/>
 </div>
 
 ###
